@@ -30,3 +30,11 @@ perceptron_implimentation
 '''
 1st commit
 '''
+
+## change the directory research_env and open jupyter notebook
+
+'''
+cd research_env
+jupyter-notebook
+
+'''
